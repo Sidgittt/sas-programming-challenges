@@ -5,6 +5,8 @@ Learn how to perform running calculations using DATA step processing.
 
 Tasks:
 
-1. Calculate running total of VALUE
-2. Calculate running average
-3. Reset running calculations for each subject using BY-group processing
+1. Running Total per Subject (RETAIN Method)
+2. Running Total using SUM Statement
+3. Running Average per Subject
+4. Baseline Flag Creation (Clinical Standard)
+5. Change from Baseline
