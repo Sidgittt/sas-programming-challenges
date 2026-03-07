@@ -1,4 +1,4 @@
-# Day 2 – FIRST./LAST. Deep Dive
+# Day 2 – FIRST./LAST. 
 
 Objective:
 Understand BY-group processing using FIRST. and LAST. variables.
