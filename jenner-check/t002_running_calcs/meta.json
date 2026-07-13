@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_running_calcs",
+  "source_file": "day03-running-calculations/solution.sas",
+  "source_blob_sha": "929df16494d98a57124be271f8bfa4dfc09382ac",
+  "source_commit": "c500318d14e5e4fb21ea5f86e1501955f2305de3",
+  "notes": "Running calculations contrasting RETAIN vs the SUM statement: running total, running average, baseline flag, and change-from-baseline over inline lab data. Self-contained; script verbatim, obs=100 cap in autoexec."
+}

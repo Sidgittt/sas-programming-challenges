@@ -1,0 +1,7 @@
+{
+  "bundle": "t004_adlb_pipeline",
+  "source_file": "day07-weekly-clinical-challenge/solution.sas",
+  "source_blob_sha": "a028cfa81d26329322afe129656eaef47fd4bca6",
+  "source_commit": "c500318d14e5e4fb21ea5f86e1501955f2305de3",
+  "notes": "End-to-end clinical ADLB derivation: dedup, merge treatment start date, derive ADT/ADY, baseline record + BASE, CHG and PCHG. Self-contained inline DATALINES; script verbatim, obs=100 cap in autoexec."
+}

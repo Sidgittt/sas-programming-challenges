@@ -1,0 +1,69 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA day6_vitals_wide
+
+NOTE: Processing inline DATALINES (6 lines)
+
+NOTE: Read 6 rows from DATALINES.
+NOTE: Wrote day6_vitals_wide (6 rows, 9 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA vitals_long
+
+
+NOTE: Read 6 rows from day6_vitals_wide.
+NOTE: Wrote vitals_long (30 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=day6_vitals_wide
+
+NOTE: Read 6 rows from day6_vitals_wide.
+NOTE: Wrote day6_vitals_wide (6 rows, 9 columns).
+NOTE: PROC SORT statement used.
+NOTE: PROC TRANSPOSE data=day6_vitals_wide
+
+NOTE: Created 30 rows.
+NOTE: Output written to /tmp/work/r_eea47cff208e4d6e94fcc5687a1fc9a9/work/1095ecec-8e1f-496c-8f0b-c3677634e34d/task1.avro.
+NOTE: DATA task2
+
+
+NOTE: Read 30 rows from vitals_long.
+NOTE: Wrote task2 (30 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=task2
+
+NOTE: Read 30 rows from task2.
+NOTE: Wrote task2 (30 rows, 6 columns).
+NOTE: PROC SORT statement used.
+NOTE: DATA task3
+
+
+NOTE: Read 6 rows from day6_vitals_wide.
+NOTE: Wrote task3 (6 rows, 10 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA task4
+
+
+NOTE: Read 6 rows from day6_vitals_wide.
+NOTE: Wrote task4 (6 rows, 10 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=vitals_long
+
+NOTE: Read 30 rows from vitals_long.
+NOTE: Wrote vitals_long (30 rows, 6 columns).
+NOTE: PROC SORT statement used.
+NOTE: DATA Task5
+
+
+NOTE: Read 30 rows from vitals_long.
+NOTE: Wrote Task5 (6 rows, 9 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds

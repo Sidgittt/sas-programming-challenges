@@ -1,0 +1,7 @@
+{
+  "bundle": "t003_array_transpose",
+  "source_file": "day06-arrays/solution.sas",
+  "source_blob_sha": "5e62402477c9f7b0485667c55c8b7fda53f2dcb5",
+  "source_commit": "c500318d14e5e4fb21ea5f86e1501955f2305de3",
+  "notes": "ARRAY processing: wide-to-long and long-to-wide vitals reshaping, missing-value recoding, per-record non-missing counts and averages, plus a PROC TRANSPOSE variant. Self-contained; script verbatim, obs=100 cap in autoexec."
+}

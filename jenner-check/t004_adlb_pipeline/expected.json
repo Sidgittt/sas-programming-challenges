@@ -1,0 +1,21 @@
+{
+  "_captured_at": "2026-07-13T08:47:14.406287Z",
+  "_captured_run_id": "r_cf07a0320aac4f389d5bba8b02ba5231",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Read 3 rows from DATALINES.",
+    "NOTE: Wrote day7_dm (3 rows, 3 columns).",
+    "NOTE: Read 10 rows from DATALINES.",
+    "NOTE: Wrote day7_labs_raw (10 rows, 7 columns).",
+    "NOTE: Read 10 rows from day7_labs_raw."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}
