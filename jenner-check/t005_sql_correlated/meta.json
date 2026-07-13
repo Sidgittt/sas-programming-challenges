@@ -1,0 +1,7 @@
+{
+  "bundle": "t005_sql_correlated",
+  "source_file": "day08-proc-sql-deep-thinking/solution.sas",
+  "source_blob_sha": "ae8058bb79af83591325240f4535c8efc9ba2c86",
+  "source_commit": "c500318d14e5e4fb21ea5f86e1501955f2305de3",
+  "notes": "PROC SQL depth: aggregation, correlated subqueries (second-highest sale, latest sale date per salesperson), a left join with derived tenure, and a NOT IN anti-join. Self-contained; script verbatim, obs=100 cap in autoexec."
+}

@@ -1,0 +1,60 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA day11_dm
+
+NOTE: Processing inline DATALINES (4 lines)
+
+NOTE: Read 4 rows from DATALINES.
+NOTE: Wrote day11_dm (4 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA day11_ex
+
+NOTE: Processing inline DATALINES (4 lines)
+
+NOTE: Read 4 rows from DATALINES.
+NOTE: Wrote day11_ex (4 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA day11_ae
+
+NOTE: Processing inline DATALINES (3 lines)
+
+NOTE: Read 3 rows from DATALINES.
+NOTE: Wrote day11_ae (3 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SQL 
+
+NOTE: Table task1 created.
+NOTE: PROC SQL statement used.
+NOTE: PROC SQL 
+
+NOTE: Table task2 created.
+NOTE: PROC SQL statement used.
+NOTE: PROC SQL 
+
+NOTE: Table task3 created.
+NOTE: PROC SQL statement used.
+NOTE: PROC SQL 
+
+NOTE: Table task4 created.
+NOTE: PROC SQL statement used.
+NOTE: PROC SQL 
+
+NOTE: Table task5 created.
+NOTE: PROC SQL statement used.
+NOTE: PROC SQL 
+
+NOTE: Table task6 created.
+NOTE: PROC SQL statement used.
+NOTE: PROC SQL 
+
+NOTE: Table task7 created.
+NOTE: PROC SQL statement used.
+NOTE: PROC SQL 
+
+NOTE: Table task8 created.
+NOTE: PROC SQL statement used.

@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_first_last_flags",
+  "source_file": "day02-first-last-processing/Solution.sas",
+  "source_blob_sha": "d0b95a216a440136a0fdb7887ef456f961ba936c",
+  "source_commit": "c500318d14e5e4fb21ea5f86e1501955f2305de3",
+  "notes": "FIRST./LAST. BY-group processing: flags first/last visit per subject, visit sequence numbering, visit counts, and a subject summary. Self-contained inline DATALINES; script verbatim, obs=100 cap in autoexec."
+}

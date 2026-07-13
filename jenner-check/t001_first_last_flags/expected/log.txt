@@ -1,0 +1,70 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA day2_visits
+
+NOTE: Processing inline DATALINES (9 lines)
+
+NOTE: Read 9 rows from DATALINES.
+NOTE: Wrote day2_visits (9 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=day2_visits
+
+NOTE: Read 9 rows from day2_visits.
+NOTE: Wrote day2_sorted (9 rows, 5 columns).
+NOTE: PROC SORT statement used.
+NOTE: DATA first_last_flag
+
+
+NOTE: Read 9 rows from day2_sorted.
+NOTE: Wrote first_last_flag (9 rows, 7 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=day2_visits
+
+NOTE: Read 9 rows from day2_visits.
+NOTE: Wrote task3_sorted (9 rows, 5 columns).
+NOTE: PROC SORT statement used.
+NOTE: DATA task3_seq
+
+
+NOTE: Read 9 rows from task3_sorted.
+NOTE: Wrote task3_seq (9 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=day2_visits
+
+NOTE: Read 9 rows from day2_visits.
+NOTE: Wrote day2_sorted (9 rows, 5 columns).
+NOTE: PROC SORT statement used.
+NOTE: DATA visit_count
+
+
+NOTE: Read 9 rows from day2_sorted.
+NOTE: Wrote visit_count (3 rows, 2 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: DATA visit_count
+
+
+NOTE: Read 9 rows from day2_sorted.
+NOTE: Wrote visit_count (3 rows, 2 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=day2_visits
+
+NOTE: Read 9 rows from day2_visits.
+NOTE: Wrote day2_sorted (9 rows, 5 columns).
+NOTE: PROC SORT statement used.
+NOTE: DATA subject_summary
+
+
+NOTE: Read 9 rows from day2_sorted.
+NOTE: Wrote subject_summary (3 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds

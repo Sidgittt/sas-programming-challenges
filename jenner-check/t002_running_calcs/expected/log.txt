@@ -1,0 +1,75 @@
+NOTE: Option OBS changed to 100.
+NOTE: DATA day3_labs
+
+NOTE: Processing inline DATALINES (8 lines)
+
+NOTE: Read 8 rows from DATALINES.
+NOTE: Wrote day3_labs (8 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=day3_labs
+
+NOTE: Read 8 rows from day3_labs.
+NOTE: Wrote day3_labs (8 rows, 4 columns).
+NOTE: PROC SORT statement used.
+NOTE: DATA task1
+
+
+NOTE: Read 8 rows from day3_labs.
+NOTE: Wrote task1 (8 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=day3_labs
+
+NOTE: Read 8 rows from day3_labs.
+NOTE: Wrote day3_labs (8 rows, 4 columns).
+NOTE: PROC SORT statement used.
+NOTE: DATA task2
+
+
+NOTE: Read 8 rows from day3_labs.
+NOTE: Wrote task2 (8 rows, 5 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=day3_labs
+
+NOTE: Read 8 rows from day3_labs.
+NOTE: Wrote day3_sorted (8 rows, 4 columns).
+NOTE: PROC SORT statement used.
+NOTE: DATA running_avg
+
+
+NOTE: Read 8 rows from day3_sorted.
+NOTE: Wrote running_avg (8 rows, 7 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=day3_labs
+
+NOTE: Read 8 rows from day3_labs.
+NOTE: Wrote day3_sorted (8 rows, 4 columns).
+NOTE: PROC SORT statement used.
+NOTE: DATA task4
+
+
+NOTE: Read 8 rows from day3_sorted.
+NOTE: Wrote task4 (8 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC SORT data=day3_labs
+
+NOTE: Read 8 rows from day3_labs.
+NOTE: Wrote day3_sorted (8 rows, 4 columns).
+NOTE: PROC SORT statement used.
+NOTE: DATA task5
+
+
+NOTE: Read 8 rows from day3_sorted.
+NOTE: Wrote task5 (8 rows, 6 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds

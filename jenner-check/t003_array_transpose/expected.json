@@ -1,0 +1,21 @@
+{
+  "_captured_at": "2026-07-13T08:47:14.406287Z",
+  "_captured_run_id": "r_eea47cff208e4d6e94fcc5687a1fc9a9",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Read 6 rows from DATALINES.",
+    "NOTE: Wrote day6_vitals_wide (6 rows, 9 columns).",
+    "NOTE: Read 6 rows from day6_vitals_wide.",
+    "NOTE: Wrote vitals_long (30 rows, 6 columns).",
+    "NOTE: Read 30 rows from vitals_long."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

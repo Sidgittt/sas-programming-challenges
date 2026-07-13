@@ -1,0 +1,21 @@
+{
+  "_captured_at": "2026-07-13T08:47:14.406287Z",
+  "_captured_run_id": "r_2a0c130427af4d898e78d215bdf17649",
+  "status": "ok",
+  "exit_code": 0,
+  "log_contains": [
+    "NOTE: Read 9 rows from DATALINES.",
+    "NOTE: Wrote day8_sales (9 rows, 4 columns).",
+    "NOTE: Read 4 rows from DATALINES.",
+    "NOTE: Wrote day8_emp (4 rows, 3 columns).",
+    "NOTE: Read 9 rows from day8_sales."
+  ],
+  "log_does_not_contain": [
+    "ERROR:",
+    "[JENNER-ERROR"
+  ],
+  "diagnostics": {
+    "parse_warnings": [],
+    "runtime_warnings": []
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "bundle": "t006_sql_join_strategy",
+  "source_file": "day11-join-strategy-mastery/solution.sas",
+  "source_blob_sha": "7a2c4d9dd6ffc6a6184313f1a213fe1bf50a2a33",
+  "source_commit": "c500318d14e5e4fb21ea5f86e1501955f2305de3",
+  "notes": "PROC SQL join strategy across DM/EX/AE: safety population, set-difference anti-joins, exposure summary, AE flag via left join, and a UNION-based combined subject-status table. Self-contained; script verbatim, obs=100 cap in autoexec."
+}
